@@ -1,5 +1,5 @@
 import React from 'react'
-// import img from '../../assets/avataaars.svg'
+import img from '../../assets/avataaars.svg'
 import style from './Home.module.css'
 
 export default function Home() {
