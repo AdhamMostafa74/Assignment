@@ -1,0 +1,16 @@
+.footerBg{
+    background-color: #2C3E50;
+}
+
+.roundedIcon {
+    width: 40px;
+    height: 40px;
+    border: 1px solid #fff;
+    border-radius: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lowerFooterBg{
+     background-color: #17212A;
+}

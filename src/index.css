@@ -1,0 +1,16 @@
+#root{
+    margin: auto;
+}
+
+.nav-link {
+    color: #fff !important;
+}
+
+.active {
+    background-color: #1ABC9C !important;
+    border-radius: 10px !important;
+}
+
+body {
+    padding-top: 80px;
+}

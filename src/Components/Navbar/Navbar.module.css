@@ -1,0 +1,14 @@
+.navbarBg {
+    background-color: #2C3E50 !important;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1050;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    font-weight: 800;
+    color: #fff;
+    text-decoration: none;
+}
